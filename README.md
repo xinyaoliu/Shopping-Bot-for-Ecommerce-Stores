@@ -33,9 +33,11 @@ Currently it didn’t use database to save the user information. In the future, 
 
 ## Preview
 1) Login
+![login](https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/login.png)
 2) Search 
-3) Result
-
+![search](https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/search.png)
+3) Search result
+![search result](https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/result.png)
 
 
 
