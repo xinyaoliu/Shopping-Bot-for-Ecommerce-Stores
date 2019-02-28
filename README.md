@@ -31,19 +31,24 @@ Instead of focusing on a specific comparison(e.g. T-shirt, skirt), we support in
 ## Limitations and possible improvements:  
 Currently it didn’t use database to save the user information. In the future, we can link the crawler to the database in order to deal with more valid users suitations and use the databases to save the user information and user behavior, which can be an extension to the crawler that use collaborative filtering algorithm to give recommendation to the user based on their behavior( become a recommendation system). And for security purpose, we can add a time period threshold that if the user do not do any operations in the systems after this time period, they will be automatically log out and need to sign in again.
 
-## Preview
+## Preview  
+<div align="center">  
+  
 ### Login
-<div align="center">
 <img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/login.png" height="500" width="630" >
  </div>  
- 
+
+
+<div align="center">  
+   
 ### Search 
-<div align="center">
 <img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/search.png" height="500" width="630" >
  </div>  
  
+
+<div align="center">   
+  
 ### Search result
-<div align="center">
-<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/result.png" height="500" width="660" >
+<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/result.png" height="500" width="630" >
  </div>
 
