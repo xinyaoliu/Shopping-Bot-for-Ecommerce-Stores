@@ -34,14 +34,16 @@ Currently it didn’t use database to save the user information. In the future, 
 ## Preview
 ### Login
 <div align="center">
-<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/login.png" height="550" width="600" >
- </div>
+<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/login.png" height="500" width="600" >
+ </div>  
+ 
 ### Search 
 <div align="center">
-<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/search.png" height="550" width="600" >
- </div>
+<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/search.png" height="500" width="600" >
+ </div>  
+ 
 ### Search result
 <div align="center">
-<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/result.png" height="550" width="600" >
+<img src="https://github.com/xinyaoliu/Shopping-Bots-for-Ecommerce-Stores/blob/master/screenshots/result.png" height="500" width="600" >
  </div>
 
