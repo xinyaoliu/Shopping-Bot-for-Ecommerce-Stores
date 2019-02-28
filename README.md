@@ -8,11 +8,11 @@ Dependencies: tkinter, requests, urllib, bs4, webbrowser, Crypto.Cipher
 How to run the code: run command “python crawler.py”
 
 ## Major/Minor areas of specifications:
-Major: Web Client Programming and Crawling
-Minor: Advanced Graphical User Interface, Regular expression, Security: ASE symmetrically encrypt technology in encrypt communication, Polite Access: not visit the sites frequently and only valid user can visit.
+Major: Web Client Programming and Crawling  
+Minor: Advanced Graphical User Interface, Regular expression, Security: ASE symmetrically encrypt technology in encrypt communication, Polite Access: not visit the sites frequently and only valid user can visit.  
 Slightly involved: Hyperlink - Induced Topic Search
 
-## Sell points:  
+## Selling points:  
 1) Real-time information collection  
 Users can get information in the real-time instead of information collected/saved earlier to the local and retrieve the query from local data. That is we can get the information most up-to-date.
 2) Time-efficient for users  
